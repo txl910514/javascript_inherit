@@ -1,7 +1,8 @@
 ### 原型链法
-* 子类 的原型 为 父类的原型
+当前类 的原型 为 另一个类的示例
 
-* 示例
+示例
+
 ```` javascript
 function Shape() {
     this.name = 'Shape';
