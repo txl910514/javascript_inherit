@@ -18,10 +18,12 @@
 
 ```` javascript
 function Shape() {
-    this.name = 'Shape';
-    this.toString = function () {
-        return this.name;
-    }
+}
+
+Shape.prototype.name = "shape";
+
+Shape.prototype.toString = function () {
+    return this.name;
 }
 
 function TwoDShape () {
@@ -33,12 +35,8 @@ TwoDShape.prototype = Shape.prototype;
 TwoDShape.prototype.name = "2D shape";
 
 function Triangle (side, height) {
-    this.name = 'Triangle';
     this.side = side;
     this.height = height;
-    this.getRrea = function () {
-        return this.side * this.height / 2;
-    }
 }
 
 Triangle.prototype = TwoDShape.prototype;
