@@ -3,7 +3,14 @@
 
 使用deepCopy() 函数要注意两点
 * 在拷贝每个属性之前，建议使用hasOwnProperty()来确认不会误拷贝不需要的继承属性
-* 由于区分Array对象和普通Object对象相当繁琐，所以ES5标准中实现了Array.isArray()函数。这个跨浏览器的最佳解决方案(换句话说，为仅)
+* 由于区分Array对象和普通Object对象相当繁琐，所以ES5标准中实现了Array.isArray()函数。这个跨浏览器的最佳解决方案(换句话说，为仅支持ES3的环境提供isArray()函数)虽然看起来有点取巧，但却是有效的
+```` javascript
+if (typeof Array.isArray !== 'function') {
+    Array.isArray = function (candidate) {
+        return Object.prototype.toString.call(candidate) === '[object Array]';
+    }
+}
+````
 #### 所属模式
 * 基于对象工作的模式
 * 属性拷贝模式
