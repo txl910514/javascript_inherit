@@ -9,3 +9,4 @@ javascript 继承
 * 7.[原型继承法](https://github.com/txl910514/javascript_inherit/blob/master/7%E5%8E%9F%E5%9E%8B%E7%BB%A7%E6%89%BF%E6%B3%95/index.md)
 * 8.[扩展与增强模式](https://github.com/txl910514/javascript_inherit/blob/master/8%E6%89%A9%E5%B1%95%E4%B8%8E%E5%A2%9E%E5%BC%BA%E6%A8%A1%E5%BC%8F/index.md)
 * 9.[多重继承法](https://github.com/txl910514/javascript_inherit/blob/master/9%E5%A4%9A%E9%87%8D%E7%BB%A7%E6%89%BF%E6%B3%95/index.md)
+* 10.[寄生继承法](https://github.com/txl910514/javascript_inherit/blob/master/9%E5%A4%9A%E9%87%8D%E7%BB%A7%E6%89%BF%E6%B3%95/index.md)
