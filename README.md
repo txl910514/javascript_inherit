@@ -10,5 +10,5 @@ javascript 继承
 * 8.[扩展与增强模式](https://github.com/txl910514/javascript_inherit/blob/master/8%E6%89%A9%E5%B1%95%E4%B8%8E%E5%A2%9E%E5%BC%BA%E6%A8%A1%E5%BC%8F/index.md)
 * 9.[多重继承法](https://github.com/txl910514/javascript_inherit/blob/master/9%E5%A4%9A%E9%87%8D%E7%BB%A7%E6%89%BF%E6%B3%95/index.md)
 * 10.[寄生继承法](https://github.com/txl910514/javascript_inherit/blob/master/10%E5%AF%84%E7%94%9F%E7%BB%A7%E6%89%BF%E6%B3%95/index.md)
-* 11.[构造器借用法]https://github.com/txl910514/javascript_inherit/blob/master/11%E6%9E%84%E9%80%A0%E5%99%A8%E5%80%9F%E7%94%A8%E6%B3%95/index.md)
-* 12.[12构造器借用与属性拷贝法](https://github.com/txl910514/javascript_inherit/blob/master/12%E6%9E%84%E9%80%A0%E5%99%A8%E5%80%9F%E7%94%A8%E4%B8%8E%E5%B1%9E%E6%80%A7%E6%8B%B7%E8%B4%9D%E6%B3%95/index.md)
+* 11.[构造器借用法](https://github.com/txl910514/javascript_inherit/blob/master/11%E6%9E%84%E9%80%A0%E5%99%A8%E5%80%9F%E7%94%A8%E6%B3%95/index.md)
+* 12.[构造器借用与属性拷贝法](https://github.com/txl910514/javascript_inherit/blob/master/12%E6%9E%84%E9%80%A0%E5%99%A8%E5%80%9F%E7%94%A8%E4%B8%8E%E5%B1%9E%E6%80%A7%E6%8B%B7%E8%B4%9D%E6%B3%95/index.md)
